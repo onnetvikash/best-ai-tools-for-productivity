@@ -64,6 +64,7 @@ All tools belong to their respective owners and are linked to their official sit
 | Claude Code | Agentic coding from the terminal | [claude.com/product/claude-code](https://claude.com/product/claude-code) |
 | GitHub Copilot | In-editor code completion | [github.com/features/copilot](https://github.com/features/copilot) |
 | Cursor | AI-first code editor | [cursor.com](https://cursor.com) |
+| agent-qa | Natural-language app testing with persistent memory and validated self-improvement | [vostride.com](https://vostride.com) |
 
 ## Automation
 
